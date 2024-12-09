@@ -1,0 +1,166 @@
+{
+    "autoload": false,
+    "circular": 0,
+    "company": "ELEGOO",
+    "group": 1,
+    "img": "",
+    "laser_paras": {
+        "laser_power": 20,
+        "laser_spot_diameter": 0.20000000298023224
+    },
+    "logo": true,
+    "name": "ELEGOO Mars 5",
+    "platgridsize": 21,
+    "ps": "",
+    "size": {
+				"originx": 0,
+				"originy": 0,
+				"originz": 0,
+				"x": 143.42999267578125,
+				"y": 89.5999984741211,
+				"z": 150
+    },
+    "type": "lcd",
+			"vd_printer": {
+				"vd_active_printer": {
+					"vd_printer_advanced_para": {
+						"vd_printer_advanced_doubleblur": false,
+						"vd_printer_advanced_innercomp": 0,
+						"vd_printer_advanced_para_anti": false,
+						"vd_printer_advanced_para_anti_level": 0,
+						"vd_printer_advanced_para_beam_compenstation": 0,
+						"vd_printer_advanced_para_bottom_led_power": 255,
+						"vd_printer_advanced_para_grey_level": 0,
+						"vd_printer_advanced_para_image_blur": false,
+						"vd_printer_advanced_para_image_blur_pixel": 0,
+						"vd_printer_advanced_para_led_power": 255,
+						"vd_printer_advanced_para_notes": "",
+						"vd_printer_advanced_para_reduce_point": 0,
+						"vd_printer_advanced_para_scale_x": 1,
+						"vd_printer_advanced_para_scale_y": 1,
+						"vd_printer_advanced_para_scale_z": 1,
+						"vd_printer_advanced_supoort_aa": false
+					},
+					"vd_printer_printer_para": {
+						"vd_printer_printer_bottom_wait_after_lift": 0,
+						"vd_printer_printer_bottom_wait_after_retract": 0.5,
+						"vd_printer_printer_bottom_wait_before_lift": 0,
+						"vd_printer_printer_first_layer_exposure_time": 50,
+						"vd_printer_printer_para_back_speed": 230,
+						"vd_printer_printer_para_bootom_lift_dis": 2,
+						"vd_printer_printer_para_bottom_back_speed": 230,
+						"vd_printer_printer_para_bottom_exposure_time": 32,
+						"vd_printer_printer_para_bottom_layer": 2,
+						"vd_printer_printer_para_bottom_lift_speed": 75,
+						"vd_printer_printer_para_bottom_lightoff_delay": 0.5,
+						"vd_printer_printer_para_exposure_time": 2.5,
+						"vd_printer_printer_para_lift_dis": 2,
+						"vd_printer_printer_para_lift_speed": 75,
+						"vd_printer_printer_para_lightoff_delay": 0,
+						"vd_printer_printer_para_tanslate_layer_count": 5,
+						"vd_printer_printer_para_thickness": 0.05000000074505806,
+						"vd_printer_printer_para_wait_after_cure": 0,
+						"vd_printer_printer_parameter_mode": 0,
+						"vd_printer_printer_slow_back_dis": 2,
+						"vd_printer_printer_slow_back_speed": 75,
+						"vd_printer_printer_slow_bottom_back_dis": 2,
+						"vd_printer_printer_slow_bottom_back_speed": 75,
+						"vd_printer_printer_slow_bottom_lift_dis": 3,
+						"vd_printer_printer_slow_bottom_lift_speed": 230,
+						"vd_printer_printer_slow_lift_dis": 3,
+						"vd_printer_printer_slow_lift_speed": 230
+					},
+					"vd_printer_resin_para": {
+						"vd_printer_resin_para_cost": 0,
+						"vd_printer_resin_para_density": 1.2999999523162842,
+						"vd_printer_resin_para_notes": "",
+						"vd_printer_resin_para_type": "normal",
+						"vd_printer_resin_para_unit": 0,
+						"vd_printer_resin_para_unit2": 0
+					},
+					"vd_resine_company": "",
+					"vd_resine_profilename": "New Script"
+				},
+				"vd_printer_machine_para": {
+					"vd_printer_machine_para_lockratio": false,
+					"vd_printer_machine_para_mirror_x": true,
+					"vd_printer_machine_para_mirror_y": false,
+					"vd_printer_machine_para_mono": false,
+					"vd_printer_machine_para_note": "",
+					"vd_printer_machine_para_ori_index": 0,
+					"vd_printer_machine_para_pixel_x": 35,
+					"vd_printer_machine_para_pixel_y": 35,
+					"vd_printer_machine_para_resx": 4098,
+					"vd_printer_machine_para_resy": 2560,
+					"vd_printer_machine_para_scale_x": 1,
+					"vd_printer_machine_para_scale_y": 1,
+            "vd_printer_machine_para_targtformats": [
+                {
+                    "vd_printer_machine_para_targetformat_showname": "goo",
+                    "vd_printer_machine_para_taregtformat_name": "27"
+                }
+            ],
+            "vd_printer_machine_para_type": "ELEGOO Mars 5",
+            "vd_printer_machine_para_uvtoolformat": "27"
+				},
+				"vd_printer_resin_paras": [{
+					"vd_printer_advanced_para": {
+						"vd_printer_advanced_doubleblur": false,
+						"vd_printer_advanced_innercomp": 0,
+						"vd_printer_advanced_para_anti": false,
+						"vd_printer_advanced_para_anti_level": 0,
+						"vd_printer_advanced_para_beam_compenstation": 0,
+						"vd_printer_advanced_para_bottom_led_power": 255,
+						"vd_printer_advanced_para_grey_level": 0,
+						"vd_printer_advanced_para_image_blur": false,
+						"vd_printer_advanced_para_image_blur_pixel": 0,
+						"vd_printer_advanced_para_led_power": 255,
+						"vd_printer_advanced_para_notes": "",
+						"vd_printer_advanced_para_reduce_point": 0,
+						"vd_printer_advanced_para_scale_x": 1,
+						"vd_printer_advanced_para_scale_y": 1,
+						"vd_printer_advanced_para_scale_z": 1,
+						"vd_printer_advanced_supoort_aa": false
+					},
+					"vd_printer_printer_para": {
+						"vd_printer_printer_bottom_wait_after_lift": 0,
+						"vd_printer_printer_bottom_wait_after_retract": 0.5,
+						"vd_printer_printer_bottom_wait_before_lift": 0,
+						"vd_printer_printer_first_layer_exposure_time": 50,
+						"vd_printer_printer_para_back_speed": 230,
+						"vd_printer_printer_para_bootom_lift_dis": 2,
+						"vd_printer_printer_para_bottom_back_speed": 230,
+						"vd_printer_printer_para_bottom_exposure_time": 32,
+						"vd_printer_printer_para_bottom_layer": 2,
+						"vd_printer_printer_para_bottom_lift_speed": 75,
+						"vd_printer_printer_para_bottom_lightoff_delay": 0.5,
+						"vd_printer_printer_para_exposure_time": 2.5,
+						"vd_printer_printer_para_lift_dis": 2,
+						"vd_printer_printer_para_lift_speed": 75,
+						"vd_printer_printer_para_lightoff_delay": 0,
+						"vd_printer_printer_para_tanslate_layer_count": 5,
+						"vd_printer_printer_para_thickness": 0.05000000074505806,
+						"vd_printer_printer_para_wait_after_cure": 0,
+						"vd_printer_printer_parameter_mode": 0,
+						"vd_printer_printer_slow_back_dis": 2,
+						"vd_printer_printer_slow_back_speed": 75,
+						"vd_printer_printer_slow_bottom_back_dis": 2,
+						"vd_printer_printer_slow_bottom_back_speed": 75,
+						"vd_printer_printer_slow_bottom_lift_dis": 3,
+						"vd_printer_printer_slow_bottom_lift_speed": 230,
+						"vd_printer_printer_slow_lift_dis": 3,
+						"vd_printer_printer_slow_lift_speed": 230
+					},
+					"vd_printer_resin_para": {
+						"vd_printer_resin_para_cost": 0,
+						"vd_printer_resin_para_density": 1.2999999523162842,
+						"vd_printer_resin_para_type": "normal",
+						"vd_printer_resin_para_unit": 0,
+						"vd_printer_resin_para_unit2": 0
+					},
+					"vd_resine_company": "",
+					"vd_resine_profilename": "New Script"
+				}]
+			}
+		
+}
